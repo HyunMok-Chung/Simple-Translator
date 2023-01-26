@@ -1,0 +1,16 @@
+.my-btn {
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid greenyellow;
+    background-color: greenyellow;
+}
+
+.my-input {
+    width: 500px;
+    height: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 15px;
+    border: 1px solid;
+    border-radius: 5px;
+}

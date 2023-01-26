@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "chm-trans",
+    "version": "1.0.0",
+    "author": "Harbor",
+    "host_permissions": ["<all_urls>"],
+    "icons":{
+        "128":"icon02.png"
+    },
+    "description": "Simple Translator",
+    "background":{
+        "service_worker": "background-wrapper.js"
+    },
+    "action":{
+        "default_title": "Mok's Translator",
+        "default_icon": "icon02.png", 
+        "default_popup": "popup.html"
+    }
+}
