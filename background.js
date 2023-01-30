@@ -2,6 +2,7 @@ const api_url = config.key_url;
 const client_id = config.id;
 const client_secret = config.secret;
 
+//엔터키로 데이터 전송받기
 document.getElementById("src_sen")
     .addEventListener("keyup", function(e) {
         if (e.code === 'Enter') {
