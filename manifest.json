@@ -9,7 +9,7 @@
     },
     "description": "Simple Translator",
     "background":{
-        "service_worker": "background-wrapper.js"
+        "service_worker": "background.js"
     },
     "action":{
         "default_title": "Mok's Translator",
